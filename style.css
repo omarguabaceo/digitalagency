@@ -1,0 +1,353 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+
+    font-family: sans-serif;
+}
+
+
+#nav-bar {
+position: sticky;
+z-index: 10;
+top: 0;
+
+}
+
+.navbar{
+
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  padding: 0 !important;
+  
+ 
+}
+
+.navbar .collapse .navbar-nav ul li {
+    float: right;
+
+}
+
+#nav-bar li a {
+    
+    color: white !important;
+    font-weight: 600;
+    float: right;
+text-align: left;
+    }
+
+    
+    
+.navbar-brand img{
+
+height: 40px;
+padding-left: 20px;
+
+
+}
+
+
+.navbar-toggler{
+
+    outline: none !important;
+}
+
+
+.navbar li{
+
+padding: 0 10px;
+
+}
+
+
+.fa-bars {
+
+color: #ffff;
+font-size: 30px !important;
+
+}
+
+
+
+
+
+/* ---------------------------------------Banner Section -------------*/
+
+
+
+#banner {
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+    color: white;
+    padding-top: 5%;
+
+}
+
+
+.promo-title {
+
+font-size: 20px;
+font-weight: 600;
+margin-top: 100px;
+}
+
+
+.play-button{
+width: 50px;
+margin: 10px;
+
+
+}
+
+#banner a   {
+color: white;
+text-decoration: none;
+
+
+
+}
+
+.my-image {
+    margin-top: 50px;
+    width: 300px;
+
+
+}
+
+
+.bottom-image {
+
+    width: 1000px;
+    height: 400px;
+background-color: white;
+
+}
+
+
+
+
+/* ---------------------------------------Services Section -------------*/
+
+
+
+.services-image {
+
+
+    width: 150px;
+    height: 100px;
+
+
+
+}
+
+
+.title-service::after{
+content: "";
+background: brown;
+display: block;
+height: 5px;
+width: 100px;
+margin-left: auto;
+margin-right: auto;
+
+
+}
+
+..title-service:{
+padding-bottom: 250px;
+
+}
+
+.services {
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+
+    font-family: sans-serif;
+}
+
+
+#nav-bar {
+position: sticky;
+z-index: 10;
+top: 0;
+
+}
+
+.navbar{
+
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  padding: 0 !important;
+  
+ 
+}
+
+.navbar .collapse .navbar-nav ul li {
+    float: right;
+
+}
+
+#nav-bar li a {
+    
+    color: white !important;
+    font-weight: 600;
+    float: right;
+text-align: left;
+    }
+
+    
+    
+.navbar-brand img{
+
+height: 40px;
+padding-left: 20px;
+
+
+}
+
+
+.navbar-toggler{
+
+    outline: none !important;
+}
+
+
+.navbar li{
+
+padding: 0 10px;
+
+}
+
+
+.fa-bars {
+
+color: #ffff;
+font-size: 30px !important;
+
+}
+
+
+
+
+
+/* ---------------------------------------About Us Section -------------*/
+
+
+
+#banner {
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+    color: white;
+    padding-top: 5%;
+
+}
+
+
+.promo-title {
+
+font-size: 20px;
+font-weight: 600;
+margin-top: 100px;
+}
+
+
+.play-button{
+width: 50px;
+margin: 10px;
+
+
+}
+
+#banner a   {
+color: white;
+text-decoration: none;
+
+
+
+}
+
+.my-image {
+    margin-top: 50px;
+    width: 300px;
+
+
+}
+
+
+.bottom-image {
+
+    width: 1000px;
+    height: 400px;
+background-color: white;
+
+}
+
+
+
+
+/* ---------------------------------------Services Section -------------*/
+
+
+
+.services-image {
+
+
+    width: 150px;
+    height: 100px;
+
+
+
+}
+
+
+.title-service::before{
+content: "";
+background: brown;
+display: block;
+margin-top: 20px;
+height: 5px;
+width: 200px;
+margin-left: auto;
+margin-right: auto;
+
+
+}
+
+button {
+    margin-top: 20px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+.about-us-image {
+
+
+    width: 50px;
+    height: 50px;
+    
+
+
+}
+
+
+
+/* ---------------- Testimonias Section ---------------*/
+.myimagenow {
+
+
+    height: 10%;
+    width: 30%;
+}
+
+
+.mynews{
+
+padding-top: 500px;
+
+}
